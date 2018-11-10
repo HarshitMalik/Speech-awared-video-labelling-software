@@ -12,6 +12,6 @@ write_subtitles.h, this header file has the function writesubs(const char pointe
 
 **Api Key**
 
-Please contact harshit.malik999@gmail.com or chhabra99yogesh@gmail.com if u need a user key or you can setup it on your own, steps given on google cloud are quite easy to understand
+If you need a user key Please contact harshit.malik999@gmail.com or chhabra99yogesh@gmail.com or you can set it up on your own, steps given on google cloud are quite easy to understand
 > Link for setting up google cloud environment : https://cloud.google.com/sdk/docs/#deb
 ```
