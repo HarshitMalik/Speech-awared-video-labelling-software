@@ -2,7 +2,7 @@
 
 *This software is developed by [Harshit Malik](harshit.malik999@gmail.com) and [Yogesh Chhabra](chhabra99yogesh@gmail.com ) under guidance of professor [Dr. Abhinav Dhall](http://www.iitrpr.ac.in/cse/abhinavdhall).*
 
-This is sotware developed using **qT** that uses **ffmpeg** and **CMU Sphinx(speech to text api)** to label a video according to its audio. This software extracts audio from video using ffmpeg and then this audio is converted to text using api. This text is saved in srt format and then video is labelled accordingly with duration of any word being spoken in the video. You can search for any word in the video and can directly jump to that part of the video and you can even save those frames. User interface (UI) of this software is developed using qT creator software.
+This is sotware developed using **Qt** that uses **FFMPEG** and **CMU Sphinx(speech to text api)** to label a video according to its audio. This software extracts audio from video using ffmpeg and then this audio is converted to text using api. This text is saved in srt format and then video is labelled accordingly with duration of any word being spoken in the video. You can search for any word in the video and can directly jump to that part of the video and you can even save those frames. User interface (UI) of this software is developed using qT creator software.
 
 **Working in breif**
 
