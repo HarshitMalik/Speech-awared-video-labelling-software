@@ -5,7 +5,7 @@ import sphinxbase as sb
 import pocketsphinx as ps
 
 def writesubs(str_out_file,duration):
-	MODELDIR = '/usr/local/lib/python3.6/dist-packages/pocketsphinx/model'
+	MODELDIR = '/usr/local/share/pocketsphinx/model/en-us'
 	DATADIR = 'temp'
 
 	# Create a decoder with certain model
@@ -53,4 +53,3 @@ def writesubs(str_out_file,duration):
 		i=i+1
 
 writesubs(sys.argv[1],sys.argv[2])
-
