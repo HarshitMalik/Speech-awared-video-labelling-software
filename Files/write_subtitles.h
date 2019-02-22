@@ -38,7 +38,7 @@ cout<<endl<<endl << str<<endl<<endl;
     string duration = exec(str4.c_str());
     int dur=stoi(duration);
     duration= to_string(dur);
-    string str2="python3 script2.py " ;
+    string str2="python script2.py " ;
 	str2=str2 + out_file_name;
 	str2=str2+" ";
 	str2 = str2+duration;				
